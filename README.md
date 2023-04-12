@@ -1,0 +1,1 @@
+# Fungsi manipulasi c-string
